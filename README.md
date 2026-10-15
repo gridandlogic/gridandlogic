@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQFt-gWsqnImnw/profile-displayphoto-shrink_800_800/B4DaC0F.XLJUAc-/0/1789727860761?e=1793836800&v=beta&t=wDFBMiPeAH5XAb9FBQ09rgBLgIIQMDAODu7LNCbRh1A" width="140" alt="Grid & Logic Logo" />
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFt-gWsqnImnw/profile-displayphoto-shrink_800_800/B4DaC0F.XLJUAc-/0/1789727860761?e=1793836800&v=beta&t=wDFBMiPeAH5XAb9FBQ09rgBLgIIQMDAODu7LNCbRh1A" width="140" border radius="5px" alt="Grid & Logic Logo" />
 
 # 🌐 GRID & LOGIC
 
